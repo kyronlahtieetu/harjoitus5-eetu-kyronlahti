@@ -1,4 +1,4 @@
-# harjoitus5-template
+# harjoitus6.2-template
 Ohjelmoinnin perusteiden harjoitus 6.2
 
 ## Opiskelija
